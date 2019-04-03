@@ -5,6 +5,9 @@ Figure depicting the breadth of multimodal scRNA-seq technologies
 
 [figure]: https://github.com/arnavm/multimodal-scRNA-seq/blob/master/multimodal-scRNA-seq_v1-0.png?raw=true "Multi-modal scRNA-seq"
 
+### Citation
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2628012.svg)](https://doi.org/10.5281/zenodo.2628012)
+
 #### License
 ![CC-BY-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
